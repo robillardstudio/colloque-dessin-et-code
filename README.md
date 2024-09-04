@@ -19,8 +19,26 @@ Colloque organisé par Gaëtan Robillard (ESIEE Paris, CCAMAN), avec le soutien 
 
 ## Biographies
 
-Kazushi Mukaiyama
+### Kazushi Mukaiyama
 
-Gaëtan Robillard
+Kazushi Mukaiyama est le créateur de Shizuka, le peintre IA, et professeur au Département d'Architecture des Médias à l'Université du Futur Hakodate. Il a obtenu une maîtrise en beaux-arts de l'Université municipale des arts de Kyoto en 1993 et un doctorat en arts médiatiques de la même université en 2004. Ses principales distinctions incluent une mention honorable dans la catégorie .net à Ars Electronica en 2000, le Prix spécial des WARC Awards (B to B) en 2021, et le Prix d'encouragement dans la division Comic Comedy lors de l'exposition Ikebukuro Art Gathering en 2022. Ses recherches se concentrent sur le traitement de l'information dans la création artistique. Il publie de nombreux travaux sur ce thème.
 
-Patrick Tresset
+<!-- Kazushi Mukaiyama is the creator of Shizuka, the AI painter, and a Professor in the Department of Media Architecture at Future University Hakodate. He received his M.A. in Fine Arts from Kyoto City University of Arts in 1993 and earned a Ph.D. in Media Art from the Graduate School of Art at the same university in 2004. His major awards include an Honorary Mention in the .net category at Ars Electronica in 2000, the WARC Awards Special Prize (B to B) in 2021, and the Encouragement Prize in the Comic Comedy Division at the Ikebukuro Art Gathering Open Call Exhibition in 2022. His research focuses on the information processing of art creations, and he publishes works on this theme. -->
+
+### Gaëtan Robillard
+
+Gaëtan Robillard (FR) est artiste, chercheur et enseignant, vivant et travaillant dans le Grand Paris.
+Il obtient un doctorat en esthétique, sciences et technologies des arts à l'Université Paris 8 en 2022. Sa recherche a récement été récompensée par la grande conférence SIGGRAPH 2024 (Best Art Paper Award).
+
+<!-- Gaëtan Robillard (FR) est artiste et chercheur, actuellement post doctorant à l’Université Laval (CA), vivant et travaillant entre le Grand Paris et Montréal. Il produit un ensemble d’installations utilisant datas et médias, engagées dans la recherche en mathématique, la climatologie et les sciences cognitives. Son travail a été exposé dans des lieux tels que le Palais de Tokyo et l’Ircam Centre Pompidou (Paris), Akbank Sanat (Istanbul) et le ZKM Centre d’art et de technologie des médias (Karlsruhe). Il publie régulièrement des articles sur l’esthétique du Computer Art historique, l’éducation et les artefacts algorithmiques contemporains.
+
+Gaëtan Robillard (FR) is an artist and a researcher, currently a postdoctoral fellow at Laval University (CA), living and working between the Greater Paris and Montreal. He produces data art and media based installations engaging with mathematical research, climatology and cognitive sciences. His work has been exhibited in venues such as Palais de Tokyo and Ircam Centre Pompidou (Paris), Pearl Art Museum (Shanghai), Akbank Sanat (Istanbul), and ZKM Center for Art and Media (Karlsruhe). In 2022, he obtained a PhD in art and technology from the University of Paris 8, and published several texts on early computer art aesthetics, education and contemporary algorithmic artifacts. -->
+
+### Patrick Tresset
+
+<!-- 
+Patrick Tresset is a French artist based in Brussels, known for his performative installations that explore human presence using AI, robotics, and traditional media. He earned a master’s and an MPhil in Arts and Technology from Goldsmiths College, London, and has held academic positions at the University of Konstanz and the University of Canberra. His work, which has been cited in over 300 academic publications, focuses on computational creativity and graphics.
+
+Since 2011, Tresset has had sixteen solo exhibitions and participated in major group shows at museums such as the Centre Pompidou, the V&A, and the Mori Museum. His works are in the collections of institutions like the Victoria and Albert Museum and the Guerlain Foundation.
+
+Tresset has received awards from Lumen, Ars Electronica, and the Japan Media Arts Festival, and was named a World Economic Forum Cultural Leader in 2017. His work has been featured in outlets such as Art Review, Wired, and The New York Times. A monograph on his work, “Human Traits and the Art of Creative Machines,” was published in 2016. -->
