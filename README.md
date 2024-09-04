@@ -6,7 +6,7 @@ Jeudi 12 septembre, 14h-16h30. Auditorium Cécile Poisson, B.U. George Perec Uni
 
 Adossé à l'exposition *Machine à l'œuvre*, ce colloque portera sur les rapports entre dessin, code et IA. D'un point de vue graphique, la ligne est un élément prépondérant de l'esthétique générative proposée par Max Bense ou Frieder Nake en Europe dans les années soixante. Comment à l'époque de l'IA générative cette réflexion évolue-t-elle, en particulier face aux modèles d'apprentissage profond (*deep learning*) ? Quelles nouvelles logiques et quelles pratiques sont en jeu ? Quelles en sont les limites ? Le colloque articulera ces questions par la présentation des artistes ou chercheurs Patrick Tresset et Kazushi Mukaiyama. Puis, nous ouvrirons sur une table ronde, afin de revenir sur l'histoire ou sur les avancées de l'informatique créative.
 
-Colloque organisé par Gaëtan Robillard (ESIEE Paris, CCAMAN), avec le soutien de la Mission Arts et Culture, Université Gustave Eiffel. Session animée en langue française et anglaise.
+Colloque organisé par Gaëtan Robillard (ESIEE Paris, CCAMAN), avec le soutien de la Mission Arts et Culture. Session animée en langue française et anglaise.
 
 ## Programme
 
