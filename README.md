@@ -15,7 +15,7 @@ Colloque organisé par Gaëtan Robillard (ESIEE Paris, CCAMAN), avec le soutien 
 14h45. Kazushi Mukaiyama, *Using AI to understand human creativity deeply*  
 15h15. Table ronde  
 16h. Conclusion  
-17h. Ouverture de l'exposition "Machines à l'œuvre"  
+17h. Ouverture de l'exposition
 
 Exposition *Machines à l'œuvre*, 12-24 septembre 2024, Salon d'honneur, B.U. George Perec. Pour plus d'informations, voir [https://culture.univ-gustave-eiffel.fr/toute-lactualite/actualites-details/machines-a-loeuvre](https://culture.univ-gustave-eiffel.fr/toute-lactualite/actualites-details/machines-a-loeuvre).
 
