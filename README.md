@@ -4,11 +4,15 @@
 
 Jeudi 12 septembre 2024, 14h-16h30. Auditorium Cécile Poisson, B.U. George Perec Université Gustave Eiffel.
 
-Adossé à l'exposition *Machines à l'œuvre* organisée à l'Université Gustave Eiffel en septembre 2024, ce colloque portera sur les rapports entre dessin, code et IA. D'un point de vue graphique, la ligne est un élément prépondérant de l'esthétique générative proposée par Max Bense, Vera Molnár ou Frieder Nake, dans l'Europe des années soixante. Alors qu'aujourd'hui l'IA générative révolutionne le numérique, comment cette réflexion évolue-t-elle, en particulier face aux modèles d'apprentissage profond (*deep learning*) ? Quelles nouvelles logiques et quelles pratiques sont en jeu ? Quelles en sont les limites ? Le colloque articulera ces questions par la présentation des artistes et chercheurs Patrick Tresset et Kazushi Mukaiyama. Puis, nous ouvrirons sur une table ronde, afin de revenir sur l'histoire du Computer Art ou sur les avancées de l'informatique créative.
+Adossé à l'exposition *Machines à l'œuvre* organisée à l'Université Gustave Eiffel en septembre 2024, ce colloque portera sur les rapports entre dessin, code informatique et IA. D'un point de vue graphique, la ligne est un élément prépondérant de l'esthétique générative proposée par Max Bense, Vera Molnár ou Frieder Nake, dans l'Europe des années soixante. Alors qu'aujourd'hui l'IA générative révolutionne le numérique, comment cette réflexion évolue-t-elle, en particulier face aux modèles d'apprentissage profond (*deep learning*) ? Quelles nouvelles logiques et quelles pratiques sont en jeu ? Quelles en sont les limites ? Le colloque articulera ces questions par la présentation des artistes et chercheurs Patrick Tresset et Kazushi Mukaiyama. Puis, nous ouvrirons sur une table ronde, afin de revenir sur les rapports entre l'histoire du Computer Art et les avancées de l'informatique créative.
 
 Colloque organisé par Gaëtan Robillard (ESIEE Paris, CCAMAN), avec le soutien de la Mission Arts et Culture. Ouvert au public.
 
 Session animée en langues française et anglaise.
+
+**Abstract**
+
+*Building on the exhibition *Machines at Work* organized at the Gustave Eiffel University in September 2024, this conference will focus on the relationships between drawing, computer code, and AI. From a graphical perspective, the line is a predominant element of the generative aesthetics proposed by Max Bense, Vera Molnár, or Frieder Nake in 1960s Europe. Today, as generative AI revolutionizes the digital world, how has this reflection evolved, particularly in relation to deep learning models? What new logics and practices are at play? What are the limitations? The conference will explore these questions through presentations by artists and researchers Patrick Tresset and Kazushi Mukaiyama. It will then conclude with a round table discussion to better understand the entanglement between the history of Computer Art and advances in creative computing.*
 
 ## Programme
 
