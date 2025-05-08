@@ -2,7 +2,7 @@
 
 # Machines à l'œuvre. Dessin et code
 
-Jeudi 12 septembre 2024, 14h-16h30. Auditorium Cécile Poisson, B.U. George Perec Université Gustave Eiffel.
+Jeudi 12 septembre 2024, 14h-16h30. Auditorium Cécile Poisson, B.U. Georges Perec Université Gustave Eiffel.
 
 Adossé à l'exposition *Machines à l'œuvre*, ce colloque portera sur les rapports entre dessin, code informatique et IA. D'un point de vue graphique, la ligne est un élément prépondérant de l'esthétique générative proposée par Max Bense, Vera Molnár ou Frieder Nake, dans l'Europe des années soixante. Alors qu'aujourd'hui l'IA générative révolutionne le numérique, comment cette réflexion évolue-t-elle, en particulier face aux modèles d'apprentissage profond (*deep learning*) ? Quelles nouvelles logiques et quelles pratiques sont en jeu ? Quelles en sont les limites ? Le colloque articulera ces questions par la présentation des artistes et chercheurs Patrick Tresset et Kazushi Mukaiyama. Puis, nous ouvrirons sur une table ronde, afin de revenir sur les rapports entre l'histoire du Computer Art et les avancées de l'informatique créative.
 
