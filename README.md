@@ -25,7 +25,7 @@ Session animée en langues française et anglaise.
 | 16h      | Conclusion    |          |
 | 17h      | Ouverture de l'exposition    |          |
 
-Exposition *Machines à l'œuvre*, 12-24 septembre 2024, Salon d'honneur, B.U. George Perec. Pour plus d'informations, voir [https://culture.univ-gustave-eiffel.fr/toute-lactualite/actualites-details/machines-a-loeuvre](https://culture.univ-gustave-eiffel.fr/toute-lactualite/actualites-details/machines-a-loeuvre).
+Exposition *Machines à l'œuvre*, 12-24 septembre 2024, Salon d'honneur, B.U. Georges Perec. Pour plus d'informations, voir [https://culture.univ-gustave-eiffel.fr/toute-lactualite/actualites-details/machines-a-loeuvre](https://culture.univ-gustave-eiffel.fr/toute-lactualite/actualites-details/machines-a-loeuvre).
 
 ## Biographies
 
